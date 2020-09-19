@@ -1,0 +1,30 @@
+Time:0
+name arrival_time tickets_required running priority_number age/runs
+queue1
+a0           0           2           0               2       0
+a3           0           2           0               2       0
+queue2
+a2           0           4           0               5       0
+a1           0          18           0               6       0
+
+Time:10
+name arrival_time tickets_required running priority_number age/runs
+queue1
+a3           0           2           0               2       0
+queue2
+a2           0           4           0               5      10
+a1           0          18           0               6      10
+
+Time:20
+name arrival_time tickets_required running priority_number age/runs
+queue1
+queue2
+a2           0           4           0               5      20
+a1           0          18           0               6      20
+
+Time:40
+name arrival_time tickets_required running priority_number age/runs
+queue1
+queue2
+a1           0          18           0               6      40
+
