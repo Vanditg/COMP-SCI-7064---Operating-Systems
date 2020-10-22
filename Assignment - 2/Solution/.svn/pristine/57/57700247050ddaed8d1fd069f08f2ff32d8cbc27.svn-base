@@ -9,23 +9,14 @@ Contact Email: a1779153@student.adelaide.edu.au, vanditjyotindra.gajjar@adelaide
 
 //Importing header files 
 #include<iostream>
-#include<cstring> 
+#include<cstring>
 #include<cstdlib>
+#define WRITE_ true;
 #include<stdlib.h>
 #include<algorithm>
-#include<list>
-#define WRITE_ true;
-#include<cstdlib>
-#include<tuple>
-#include<exception>
-#include<iterator>
-#include<regex>
-#define READ_ false;
-#include<vector>
-#include<map>
 #include"utilities.h"
- 
 using namespace std;
+#define READ_ false;
 
 //Definiing a boolean tableChecker function 
 bool tableChecker(map<string,bool> &deletionPageTable,string _page)

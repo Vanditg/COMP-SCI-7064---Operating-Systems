@@ -15,13 +15,6 @@ Contact Email: a1779153@student.adelaide.edu.au, vanditjyotindra.gajjar@adelaide
 #include<algorithm>
 #include<string>
 #include<sstream>
-#include<iostream>
-#include<list>
-#include<cstdlib>
-#include<tuple>
-#include<exception>
-#include<iterator>
-#include<regex>
 
 using namespace std;
 
