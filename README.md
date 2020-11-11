@@ -6,7 +6,7 @@ This repository contains assignment and solutions for one of my postgraduate sub
 [Assignment - 2](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/blob/master/Assignment%20-%202/Problem/OS_ass2_2020.pdf) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/tree/master/Assignment%20-%202/Solution) <<<--->>> [WebSubmission](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/blob/master/Assignment%20-%202/Websubmission/Assignment_2_WebSubmission.pdf) -->> Final Marks: 16/20  
 
 ## Easy Navigation for Final Assesment - Part 2. 
-[Final - Assesment - Part 2](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/tree/master/Final_Assesment/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/tree/master/Final_Assesment/Solution)  
+[Final - Assesment - Part 2](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/tree/master/Final_Assesment/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7064---Operating-Systems/tree/master/Final_Assesment/Solution) -->> Final Marks: 18/20  
 
 ## Lecture Slides and Videos  
 Please send a request [Here](https://shorturl.at/fnBL1)  
